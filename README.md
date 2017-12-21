@@ -1,6 +1,7 @@
 # μBurst / uBurst / microBurst
 
 Magpie Modular μBurst DIY build resources.
+
 μBurst is an 8hp reinvention of the Mutable Instruments - Clouds module.
 
 # Build Guide
